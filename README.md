@@ -65,8 +65,8 @@
 <h3> My Contact :</h3>
 
 <div>
-  - <strong>Telegram : <a href="https://t.me/ibnuadam26">@rizalwiyono</a></strong><br>
-  - <strong>Linkedin : <a href="https://www.linkedin.com/">Muhammad Rizal Wiyono</a></strong><br>
+  - <strong>Telegram : <a href="https://t.me/ibnuadam26">@ibnuadam</a></strong><br>
+  - <strong>Linkedin : <a href="https://www.linkedin.com/">ibnuadam</a></strong><br>
   - <strong>Email : <a href="https://ibnuadam600@gmail.com">ibnuadam600@gmail.com</a></strong>
 </div>
 <br>
